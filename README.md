@@ -21,7 +21,7 @@
 <div align="center">
 
 <a href="https://github.com/nihals007">
-  <img src="https://ghchart.rshah.org/39d353/nihals007" width="95%" alt="Nihal's GitHub contribution calendar"/>
+  <img src="https://ghchart.rshah.org/196127/nihals007" width="95%" alt="Nihal's GitHub contribution calendar"/>
 </a>
 
 </div>
