@@ -20,11 +20,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihals007&bg_color=0d1117&color=00e5ff&line=00b4d8&point=ffffff&area=true&area_color=00b4d8&hide_border=true&radius=10&custom_title=Nihal%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=nihals007&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<a href="https://github.com/nihals007">
+  <img src="https://ghchart.rshah.org/39d353/nihals007" width="95%" alt="Nihal's GitHub contribution calendar"/>
+</a>
 
 </div>
 
